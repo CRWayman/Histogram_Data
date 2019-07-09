@@ -1,0 +1,7 @@
+This repository includes an R code which I developed to help me learn some 
+fundamentals of R. This code is intended to take a table of data in which values 
+have corresponding frequency values. These could be plotted as a bar chart, 
+however, I wanted to put them in a format that could allow the use of a histogram. 
+This data is discrete, and was therefore plotted using a bar chart, however the 
+use of continuous data would simply require the user to change the geometry of 
+qplot to "histogram."
